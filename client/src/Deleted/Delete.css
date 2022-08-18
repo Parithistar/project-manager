@@ -1,0 +1,45 @@
+
+.Delete-many{
+    background-color: white;
+    border:1px solid rgb(10, 4, 4);
+    height: 34vh;
+    width: 20vw;
+    border-radius: 12px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+ 
+}
+.delete-many{
+    background-color: rgb(32, 181, 230);
+    border-color: rgb(95, 204, 240);
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    margin-right: 10px;
+} 
+.delete-many-ok{
+    
+    border: 0px solid rgb(245, 240, 240);
+    font-size: larger;
+}
+.delete-icon{
+    margin-top: 8%;
+    margin-left: 43%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(142, 221, 248);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.content-delete{
+    color: rgb(15, 174, 227);
+}
